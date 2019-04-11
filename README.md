@@ -20,3 +20,7 @@ Feedback: Xain is a great pair partner to work with, I learned how to face a pro
 ### Name: Gui Heurich
 
 Feedaback: Xain and I worked together during the first day of the Oystercard challenge. It was great to pair with Xain. He was really respectful of my own way of coding, while at the same time giving me insights into his own way of thinking. He has an approach that is not easily satisfied with a simple answer and tryies to go deep into understanding an issue. That is a very good skill to have. Looking forward to pairing again!
+
+### Name: Dominic White
+
+Feedback: A really great pairing session yesterday Xain. Our structure did not really follow driver/navigator roles, but we seemed to work well with a natural approach working together. Your explanations were brilliant, very patient and communication was clear when providing reasoning for a certain action / approach. I felt comfortable being able to speak out if I did not understand something as we were moving at a steady pace giving me the opportunity to absorb the information. Even though we finished the day with a couple of failing tests, I took a lot away from the session and it was a pleasure to work together. I look forward to our next pairing session!
