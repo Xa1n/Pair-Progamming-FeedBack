@@ -24,3 +24,7 @@ Feedaback: Xain and I worked together during the first day of the Oystercard cha
 ### Name: Dominic White
 
 Feedback: A really great pairing session yesterday Xain. Our structure did not really follow driver/navigator roles, but we seemed to work well with a natural approach working together. Your explanations were brilliant, very patient and communication was clear when providing reasoning for a certain action / approach. I felt comfortable being able to speak out if I did not understand something as we were moving at a steady pace giving me the opportunity to absorb the information. Even though we finished the day with a couple of failing tests, I took a lot away from the session and it was a pleasure to work together. I look forward to our next pairing session!
+
+### Name: Callum Marshall
+
+Feedback: I had a really good afternoon pairing with Xain, working with him is very enjoyable. He is methodical in his approach to coding and very patient in his approach to pairing. Xain is a good communicator, we had good discussion about the challenge and how we would go about solving it. Input was encouraged and while we didn't follow the driver/navigator roles, we did share ideas and worked together effectively. I particularly enjoyed his openness to experimentation and feature testing.
