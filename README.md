@@ -31,4 +31,4 @@ Feedback: I had a really good afternoon pairing with Xain, working with him is v
 
 ### Name: Tara Sankhalpara
 
-Feeback: Xain was great in both driver and navigator roles. I think we worked more collaboratively rather than having distance driver/navigator roles. He did well at explaining all steps of the challenge and the reasoning behind how tests should be written. Xain helped me to understand doubles and how they were used. Xain was great at communicating and before each step we would discuss out approach on how to solve the problem before writing any tests or code.
+Feeback: Xain was great in both driver and navigator roles. I think we worked more collaboratively rather than having distinct driver/navigator roles. He did well at explaining all steps of the challenge and the reasoning behind how tests should be written. Xain helped me to understand doubles and how they were used. Xain was great at communicating and before each step we would discuss out approach on how to solve the problem before writing any tests or code.
