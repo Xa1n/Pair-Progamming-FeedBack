@@ -28,3 +28,7 @@ Feedback: A really great pairing session yesterday Xain. Our structure did not r
 ### Name: Callum Marshall
 
 Feedback: I had a really good afternoon pairing with Xain, working with him is very enjoyable. He is methodical in his approach to coding and very patient in his approach to pairing. Xain is a good communicator, we had good discussion about the challenge and how we would go about solving it. Input was encouraged and while we didn't follow the driver/navigator roles, we did share ideas and worked together effectively. I particularly enjoyed his openness to experimentation and feature testing.
+
+### Name: Tara Sankhalpara
+
+Feeback: Xain was great in both driver and navigator roles. I think we worked more collaboratively rather than having distance driver/navigator roles. He did well at explaining all steps of the challenge and the reasoning behind how tests should be written. Xain helped me to understand doubles and how they were used. Xain was great at communicating and before each step we would discuss out approach on how to solve the problem before writing any tests or code.
