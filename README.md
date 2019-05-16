@@ -32,3 +32,11 @@ Feedback: I had a really good afternoon pairing with Xain, working with him is v
 ### Name: Tara Sankhalpara
 
 Feeback: Xain was great in both driver and navigator roles. I think we worked more collaboratively rather than having distinct driver/navigator roles. He did well at explaining all steps of the challenge and the reasoning behind how tests should be written. Xain helped me to understand doubles and how they were used. Xain was great at communicating and before each step we would discuss out approach on how to solve the problem before writing any tests or code.
+
+### Name: Max Roberts-Dear
+
+Working with Xain on the week 7 Notes App challenge was very productive. Although we didn’t progress as far as we had envisaged, it was a beneficial learning experience and our working style was justified. I particularly admired Xain’s ability to contextualise the challenge, thereby making it less abstract. This definitely aided me in my approach to driving and his input had a positive impact on our progress.
+
+Xain demonstrated a clear understanding of the week’s learning objectives and displayed effective technical communication when navigating. By the end of our session, I had a much firmer grasp of the JS module pattern and how to import functionality of one module to another. It seemed to me that this was reflected in Xain’s own learning, a clear demonstration of collaborative growth.
+
+I thoroughly enjoyed working with Xain and would be delighted to work with him again.
